@@ -1,0 +1,14 @@
+I should work on this project+
+2. add infinite scoller   npm install --save react-infinite-scroll-component (google) 
+3. Npm router tools
+4. class and function component. 
+5. lifeccyles = componentDidMount etc.......
+6. promise and async await
+7. callback function
+8. setInterval/ setTimeout etc.... 
+9. fetch API more about apis. 
+10. states/hooks/props
+11. constructors/ super()
+12. what is render()
+13. terninary operators and use in js. 
+14.  
