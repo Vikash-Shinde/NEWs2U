@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/NEWs2U/static/css/main.e6c13ad2.css",
-    "main.js": "/NEWs2U/static/js/main.93a6161e.js",
-    "static/js/787.4c026eef.chunk.js": "/NEWs2U/static/js/787.4c026eef.chunk.js",
-    "index.html": "/NEWs2U/index.html",
-    "main.e6c13ad2.css.map": "/NEWs2U/static/css/main.e6c13ad2.css.map",
-    "main.93a6161e.js.map": "/NEWs2U/static/js/main.93a6161e.js.map",
-    "787.4c026eef.chunk.js.map": "/NEWs2U/static/js/787.4c026eef.chunk.js.map"
+    "main.css": "/Vikash-Shinde/NEWs2U.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Vikash-Shinde/NEWs2U.git/static/js/main.417a1f81.js",
+    "static/js/787.4c026eef.chunk.js": "/Vikash-Shinde/NEWs2U.git/static/js/787.4c026eef.chunk.js",
+    "index.html": "/Vikash-Shinde/NEWs2U.git/index.html",
+    "main.e6c13ad2.css.map": "/Vikash-Shinde/NEWs2U.git/static/css/main.e6c13ad2.css.map",
+    "main.417a1f81.js.map": "/Vikash-Shinde/NEWs2U.git/static/js/main.417a1f81.js.map",
+    "787.4c026eef.chunk.js.map": "/Vikash-Shinde/NEWs2U.git/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.93a6161e.js"
+    "static/js/main.417a1f81.js"
   ]
 }
